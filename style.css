@@ -1,0 +1,992 @@
+.EDUCAT {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.EDUCAT .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 2560px;
+  height: 10260px;
+  position: relative;
+}
+
+.EDUCAT .footer {
+  position: absolute;
+  width: 2155px;
+  height: 238px;
+  top: 9994px;
+  left: 207px;
+  background-color: transparent;
+}
+
+.EDUCAT .logo {
+  width: 330px;
+  height: 114px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.EDUCAT .luxi-logo {
+  position: absolute;
+  width: 113px;
+  height: 113px;
+  top: 0;
+  left: 0;
+}
+
+.EDUCAT .text-wrapper {
+  top: 35px;
+  left: 131px;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  font-size: 44px;
+  position: absolute;
+  color: #000000de;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EDUCAT .socmed {
+  position: absolute;
+  width: 408px;
+  height: 75px;
+  top: 20px;
+  left: 1739px;
+}
+
+.EDUCAT .group {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  top: 0;
+  left: 0;
+}
+
+.EDUCAT .overlap-group {
+  position: relative;
+  width: 77px;
+  height: 77px;
+  top: -1px;
+  left: -1px;
+  background-color: #00000014;
+  border-radius: 38.5px;
+}
+
+.EDUCAT .social-facebook {
+  position: absolute;
+  width: 26px;
+  height: 50px;
+  top: 13px;
+  left: 25px;
+}
+
+.EDUCAT .group-copy {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  top: 0;
+  left: 111px;
+}
+
+.EDUCAT .social-linkedin {
+  position: relative;
+  width: 36px;
+  height: 36px;
+  top: 21px;
+  left: 21px;
+  background-image: url(./img/shape.svg);
+  background-size: 100% 100%;
+}
+
+.EDUCAT .overlap-wrapper {
+  left: 222px;
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  top: 0;
+}
+
+.EDUCAT .social-twitter {
+  position: absolute;
+  width: 40px;
+  height: 32px;
+  top: 23px;
+  left: 19px;
+}
+
+.EDUCAT .overlap-group-wrapper {
+  left: 333px;
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  top: 0;
+}
+
+.EDUCAT .social-instagram {
+  position: relative;
+  width: 33px;
+  height: 33px;
+  top: 22px;
+  left: 23px;
+}
+
+.EDUCAT .overlap-group-2 {
+  position: relative;
+  height: 33px;
+}
+
+.EDUCAT .oval {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  top: 10px;
+  left: 9px;
+  background-color: #00838f;
+  border-radius: 7px;
+}
+
+.EDUCAT .group-2 {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+  top: 0;
+  left: 0;
+}
+
+.EDUCAT .shape {
+  position: absolute;
+  width: 33px;
+  height: 14px;
+  top: 0;
+  left: 0;
+}
+
+.EDUCAT .img {
+  position: absolute;
+  width: 33px;
+  height: 16px;
+  top: 16px;
+  left: 0;
+}
+
+.EDUCAT .company {
+  position: absolute;
+  top: 31px;
+  left: 550px;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #00838f;
+  font-size: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EDUCAT .services {
+  position: absolute;
+  top: 31px;
+  left: 956px;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #00838f;
+  font-size: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EDUCAT .resource {
+  position: absolute;
+  top: 31px;
+  left: 1339px;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #00838f;
+  font-size: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EDUCAT .gwthm {
+  position: absolute;
+  width: 517px;
+  height: 56px;
+  top: 182px;
+  left: 815px;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  color: #7b7b7bde;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 38px;
+}
+
+.EDUCAT .subscribe {
+  position: absolute;
+  width: 2560px;
+  height: 1325px;
+  top: 8457px;
+  left: 0;
+}
+
+.EDUCAT .overlap {
+  position: relative;
+  height: 1325px;
+}
+
+.EDUCAT .unsplash-WE-kv {
+  position: absolute;
+  width: 2560px;
+  height: 1049px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.EDUCAT .div-wrapper {
+  position: absolute;
+  width: 1206px;
+  height: 800px;
+  top: 525px;
+  left: 680px;
+}
+
+.EDUCAT .overlap-2 {
+  position: relative;
+  width: 1200px;
+  height: 800px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  box-shadow: 4px 4px 10px #00000040;
+}
+
+.EDUCAT .subscribe-our {
+  position: absolute;
+  top: 112px;
+  left: 194px;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  color: #00838f;
+  font-size: 72px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.EDUCAT .this-is-our {
+  position: absolute;
+  width: 1156px;
+  top: 259px;
+  left: 22px;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  color: #4e4e4e;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EDUCAT .enter-your-email-wrapper {
+  position: absolute;
+  width: 900px;
+  height: 100px;
+  top: 468px;
+  left: 150px;
+  border-radius: 20px;
+  border: 2px solid;
+  border-color: #4e4e4e;
+}
+
+.EDUCAT .enter-your-email {
+  position: absolute;
+  top: 24px;
+  left: 59px;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  color: #929292;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.EDUCAT .span {
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  color: #929292;
+  font-size: 40px;
+  letter-spacing: 0;
+}
+
+.EDUCAT .group-3 {
+  position: absolute;
+  width: 452px;
+  height: 100px;
+  top: 621px;
+  left: 375px;
+}
+
+.EDUCAT .subcribe-wrapper {
+  position: relative;
+  width: 450px;
+  height: 100px;
+  background-color: #00bcd4;
+  border-radius: 20px;
+  box-shadow: 4px 4px 10px #00000040;
+}
+
+.EDUCAT .subcribe {
+  position: absolute;
+  top: 21px;
+  left: 111px;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EDUCAT .latest-update {
+  position: absolute;
+  width: 2559px;
+  height: 1520px;
+  top: 6680px;
+  left: -41px;
+}
+
+.EDUCAT .group-4 {
+  position: absolute;
+  width: 521px;
+  height: 98px;
+  top: 0;
+  left: 215px;
+}
+
+.EDUCAT .overlap-group-3 {
+  position: relative;
+  width: 520px;
+  height: 99px;
+  left: -1px;
+}
+
+.EDUCAT .rectangle {
+  position: absolute;
+  width: 392px;
+  height: 32px;
+  top: 67px;
+  left: 0;
+  background-color: #b2ebf2;
+}
+
+.EDUCAT .our-services {
+  position: absolute;
+  width: 519px;
+  top: 0;
+  left: 1px;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #000000de;
+  font-size: 82px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EDUCAT .overlap-3 {
+  position: absolute;
+  width: 2573px;
+  height: 1230px;
+  top: 290px;
+  left: 0;
+}
+
+.EDUCAT .rectangle-2 {
+  position: absolute;
+  width: 2113px;
+  height: 1230px;
+  top: 0;
+  left: 0;
+  border-radius: 0px 300px 300px 0px;
+  border: 10px solid;
+  border-color: #00bcd4;
+}
+
+.EDUCAT .unsplash {
+  position: absolute;
+  width: 1134px;
+  height: 920px;
+  top: 159px;
+  left: 1439px;
+  object-fit: cover;
+}
+
+.EDUCAT .group-5 {
+  position: absolute;
+  width: 1142px;
+  height: 421px;
+  top: 88px;
+  left: 130px;
+}
+
+.EDUCAT .overlap-4 {
+  position: relative;
+  width: 1140px;
+  height: 421px;
+}
+
+.EDUCAT .group-6 {
+  position: absolute;
+  width: 416px;
+  height: 331px;
+  top: 0;
+  left: 0;
+}
+
+.EDUCAT .overlap-group-4 {
+  position: relative;
+  width: 414px;
+  height: 331px;
+}
+
+.EDUCAT .rectangle-3 {
+  position: absolute;
+  width: 234px;
+  height: 234px;
+  top: 49px;
+  left: 55px;
+  background-color: #00bcd41a;
+  border-radius: 20px;
+  transform: rotate(-45.45deg);
+}
+
+.EDUCAT .rectangle-4 {
+  position: absolute;
+  width: 137px;
+  height: 137px;
+  top: 28px;
+  left: 28px;
+  background-color: #00bcd4e6;
+  border-radius: 10px;
+  transform: rotate(-45.45deg);
+}
+
+.EDUCAT .new-update {
+  position: absolute;
+  top: 97px;
+  left: 193px;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  color: #4e4e4e;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.EDUCAT .soft-talents-are {
+  position: absolute;
+  width: 1043px;
+  top: 241px;
+  left: 97px;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EDUCAT .group-7 {
+  position: absolute;
+  width: 1142px;
+  height: 421px;
+  top: 615px;
+  left: 130px;
+}
+
+.EDUCAT .course {
+  position: absolute;
+  width: 2140px;
+  height: 2006px;
+  top: 4450px;
+  left: 210px;
+}
+
+.EDUCAT .group-8 {
+  position: absolute;
+  width: 2142px;
+  height: 710px;
+  top: 1296px;
+  left: 0;
+}
+
+.EDUCAT .image {
+  width: 985px;
+  left: 1169px;
+  position: absolute;
+  height: 730px;
+  top: -6px;
+  object-fit: cover;
+}
+
+.EDUCAT .p {
+  position: absolute;
+  width: 1127px;
+  height: 710px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 100px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EDUCAT .group-9 {
+  position: absolute;
+  width: 2140px;
+  height: 710px;
+  top: 362px;
+  left: 0;
+}
+
+.EDUCAT .image-2 {
+  width: 920px;
+  left: -6px;
+  position: absolute;
+  height: 730px;
+  top: -6px;
+  object-fit: cover;
+}
+
+.EDUCAT .group-10 {
+  position: absolute;
+  width: 1037px;
+  height: 674px;
+  top: 18px;
+  left: 1107px;
+}
+
+.EDUCAT .welcome-to-the {
+  position: absolute;
+  width: 936px;
+  top: 0;
+  left: 19px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #00838f;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EDUCAT .flexcontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  position: absolute;
+  width: 1033px;
+  height: 317px;
+  top: 357px;
+  left: 0;
+}
+
+.EDUCAT .text {
+  position: relative;
+  align-self: stretch;
+  font-family: "Poppins", Helvetica;
+  font-weight: 300;
+  color: #4e4e4e;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EDUCAT .text-wrapper-2 {
+  font-family: "Poppins", Helvetica;
+  font-weight: 300;
+  color: #4e4e4e;
+  font-size: 48px;
+  letter-spacing: 0;
+}
+
+.EDUCAT .group-11 {
+  position: absolute;
+  width: 303px;
+  height: 117px;
+  top: 0;
+  left: 920px;
+}
+
+.EDUCAT .overlap-group-5 {
+  position: relative;
+  width: 302px;
+  height: 118px;
+  left: -1px;
+}
+
+.EDUCAT .rectangle-5 {
+  position: absolute;
+  width: 281px;
+  height: 32px;
+  top: 86px;
+  left: 0;
+  background-color: #b2ebf2;
+}
+
+.EDUCAT .our-services-2 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #000000de;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.EDUCAT .main-feature {
+  position: absolute;
+  width: 2182px;
+  height: 1069px;
+  top: 1507px;
+  left: 188px;
+  background-image: url(./img/group-3.svg);
+  background-size: 100% 100%;
+}
+
+.EDUCAT .header-wrapper {
+  position: absolute;
+  width: 2560px;
+  height: 1455px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/home.png);
+  background-size: 100% 100%;
+}
+
+.EDUCAT .header {
+  position: relative;
+  width: 2284px;
+  top: 28px;
+  left: 138px;
+  background-color: transparent;
+}
+
+.EDUCAT .overlap-5 {
+  position: absolute;
+  width: 609px;
+  height: 81px;
+  top: 69px;
+  left: 1675px;
+}
+
+.EDUCAT .user-menu {
+  position: absolute;
+  width: 609px;
+  height: 81px;
+  top: 0;
+  left: 0;
+}
+
+.EDUCAT .overlap-group-6 {
+  position: relative;
+  width: 1953px;
+  height: 1430px;
+  top: -1188px;
+  left: -223px;
+}
+
+.EDUCAT .rectangle-6 {
+  position: absolute;
+  width: 1773px;
+  height: 1112px;
+  top: 159px;
+  left: 90px;
+  background-color: #00bcd4;
+  border-radius: 154px 154px 154px 104px;
+  transform: rotate(-11deg);
+}
+
+.EDUCAT .login {
+  position: absolute;
+  width: 184px;
+  top: 1206px;
+  left: 223px;
+  font-weight: 500;
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EDUCAT .frame {
+  display: flex;
+  width: 167px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 1196px;
+  left: 466px;
+  background-color: #ffffff;
+  border-radius: 15px;
+}
+
+.EDUCAT .login-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-weight: 400;
+  color: #00bcd4;
+  font-family: "Poppins", Helvetica;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EDUCAT .shape-2 {
+  position: absolute;
+  width: 58px;
+  height: 58px;
+  top: 11px;
+  left: 526px;
+}
+
+.EDUCAT .logo-2 {
+  width: 187px;
+  height: 219px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.EDUCAT .overlap-6 {
+  position: relative;
+  width: 174px;
+  height: 231px;
+  left: 6px;
+}
+
+.EDUCAT .logo-3 {
+  width: 174px;
+  height: 180px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.EDUCAT .LU {
+  position: relative;
+  height: 166px;
+  top: 5px;
+  background-image: url(./img/lu-1.png);
+  background-size: 100% 100%;
+}
+
+.EDUCAT .education {
+  top: 171px;
+  left: 6px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  font-size: 40px;
+  position: absolute;
+  color: #000000de;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EDUCAT .navbar {
+  display: flex;
+  width: 1194px;
+  align-items: center;
+  justify-content: center;
+  gap: 120px;
+  position: absolute;
+  top: 87px;
+  left: 346px;
+}
+
+.EDUCAT .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EDUCAT .component-wrapper {
+  position: absolute;
+  width: 2560px;
+  height: 1669px;
+  top: 2678px;
+  left: -10px;
+}
+
+.EDUCAT .component {
+  height: 1669px;
+}
+
+.EDUCAT .banner-bottom {
+  width: 2564px;
+  height: 1669px;
+}
+
+.EDUCAT .overlap-7 {
+  position: relative;
+  width: 2562px;
+  height: 1669px;
+  left: -1px;
+}
+
+.EDUCAT .rectangle-7 {
+  position: absolute;
+  width: 2562px;
+  height: 1052px;
+  top: 380px;
+  left: 0;
+  background-color: #00bcd4;
+}
+
+.EDUCAT .decoration-dots {
+  position: absolute;
+  width: 775px;
+  height: 1009px;
+  top: 660px;
+  left: 1786px;
+}
+
+.EDUCAT .your-e-dream-to-know {
+  position: absolute;
+  width: 1108px;
+  top: 510px;
+  left: 1192px;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 115px;
+  letter-spacing: 0;
+  line-height: 160px;
+}
+
+.EDUCAT .aliquam-gravida-quam {
+  position: absolute;
+  width: 1108px;
+  top: 903px;
+  left: 1192px;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EDUCAT .button-flatwhite {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 447px;
+  height: 109px;
+  top: 1139px;
+  left: 1192px;
+  overflow: hidden;
+}
+
+.EDUCAT .SEE-DETAIL-wrapper {
+  position: relative;
+  width: 449px;
+  height: 111px;
+  top: -1px;
+  left: -1px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 0px 6px 2px #00000029;
+}
+
+.EDUCAT .SEE-DETAIL {
+  position: absolute;
+  width: 333px;
+  top: 27px;
+  left: 58px;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #00bcd4;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.EDUCAT .decoration-dots-2 {
+  position: absolute;
+  width: 765px;
+  height: 1009px;
+  top: 0;
+  left: 11px;
+}
+
+.EDUCAT .group-12 {
+  position: absolute;
+  width: 850px;
+  height: 1202px;
+  top: 263px;
+  left: 88px;
+}
+
+.EDUCAT .overlap-8 {
+  position: relative;
+  width: 1020px;
+  height: 1389px;
+  top: -85px;
+  left: -77px;
+}
+
+.EDUCAT .pic {
+  position: absolute;
+  width: 609px;
+  height: 609px;
+  top: 0;
+  left: 366px;
+}
+
+.EDUCAT .pic-2 {
+  position: absolute;
+  width: 508px;
+  height: 524px;
+  top: 515px;
+  left: 0;
+}
+
+.EDUCAT .pic-3 {
+  position: absolute;
+  width: 698px;
+  height: 699px;
+  top: 690px;
+  left: 322px;
+}
